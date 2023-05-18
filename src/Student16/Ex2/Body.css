@@ -1,0 +1,21 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    line-height: 2em;
+    height: 81vh;
+}
+
+/* h2{
+    margin: 15px 5px;
+    padding-top: 5px;
+} */
+
+.posts{
+    margin: 15px 5px;
+    padding-top: 5px;
+}
+
+.groups{
+    margin: 15px 5px;
+    padding-top: 5px;
+}
