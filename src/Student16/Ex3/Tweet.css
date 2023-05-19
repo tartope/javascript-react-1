@@ -1,0 +1,15 @@
+.RedMessage {
+    background-color: red;
+}
+
+.YellowMessage {
+    background-color: yellow;
+}
+
+.GreenMessage {
+    background-color: green;
+}
+
+.Message {
+    background-color: white;
+}
