@@ -1,10 +1,11 @@
 import React from 'react'
 import './Main.css'
+import { Account } from './Account'
 
 export const Main = () => {
   return (
     <div>
-        Hello I'm student id: 1.
+        <Account />
     </div>
   )
 }
